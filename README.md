@@ -1,6 +1,6 @@
 # The Census-Stub Graph Invariant Descriptor
 
-Full paper: https://arxiv.org/abs/2412.04582 ([doi.org/10.1109/TVCG.2024.3513275](https://doi.org/10.1109/TVCG.2024.3513275))
+Full paper: https://arxiv.org/abs/2412.04582 (doi.org/10.1109/TVCG.2024.3513275)
 
 Supplemental materials: https://osf.io/nmzra/
 
