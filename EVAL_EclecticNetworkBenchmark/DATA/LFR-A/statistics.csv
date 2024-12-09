@@ -1,0 +1,9 @@
+Number of Nodes,1500
+Number of Edges,31402
+Number of Triangles,251257.0
+Minimum Degree,28
+Maximum Degree,91
+Average Degree,41.86933333333333
+Clustering Coefficient,0.5879610740050102
+Assortativity,0.302490589630252
+Transitivity,0.5593984861966935
