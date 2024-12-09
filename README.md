@@ -8,7 +8,7 @@ Supplemental materials: https://osf.io/nmzra/
 
 An 'invariant descriptor' captures meaningful structural features of networks, useful where traditional visualizations, like node-link views, face challenges like the 'hairball phenomenon' (inscrutable overlap of points and lines). Designing invariant descriptors involves balancing abstraction and information retention, as richer data summaries demand more storage and computational resources. Building on prior work, chiefly the BMatrix—a matrix descriptor visualized as the invariant 'network portrait' heatmap—we introduce BFS-Census, a new algorithm computing our Census data structures: Census-Node, Census-Edge, and Census-Stub. Our experiments show Census-Stub, which focuses on 'stubs' (half-edges), has orders of magnitude greater discerning power (ability to tell non-isomorphic graphs apart) than any other descriptor in this study, without a difficult trade-off: the substantial increase in resolution does not come at a commensurate cost in storage space or computation power. We also present new visualizations—our Hop-Census polylines and Census-Census trajectories—and evaluate them using real-world graphs, including a sensitivity analysis that shows graph topology change maps to visual Census change.
 
-The codebase has three main components: the `EVAL_GraphAtlasCollider` folder, the `EVAL_EclecticNetworkBenchmark` folder, and the `FIG` Python scripts. We also provide the `Supplemental` companion PDF of the main paper. This project was written entirely in Python (v3.12) with additional functions from the NetworkX (v3.2.1), NumPy (v1.26.2), and Matplotlib (v3.8.2) open-source libraries.
+The full codebase (https://osf.io/bgqe7) has three main components: the `EVAL_GraphAtlasCollider` folder, the `EVAL_EclecticNetworkBenchmark` folder, and the `FIG` Python scripts. We also provide the `Supplemental` companion PDF of the main paper. This project was written entirely in Python (v3.12) with additional functions from the NetworkX (v3.2.1), NumPy (v1.26.2), and Matplotlib (v3.8.2) open-source libraries. Note that this GitHub repo only contains code, all PNG images and files above 100MB have been removed[^1].
 
 ## EVAL_GraphAtlasCollider
 
@@ -55,3 +55,5 @@ If this research project has been helpful in your work, we kindly ask to cite us
   year={2024}
 }
 ```
+
+[^1]: Specifically `EVAL_GraphAtlasCollider/Graph_Atlas/order_10.g6`, `EVAL_GraphAtlasCollider/CollisionSetMembership/CollisionSet_CSV/DATA_10.csv`, `EVAL_GraphAtlasCollider/CollisionSetMembership/CollisionSet_CSV/DATA_10/CN_CE_xx.csv`, and `EVAL_GraphAtlasCollider/CollisionSetMembership/CollisionSet_CSV/DATA_10/CN_xx_xx.csv`.
