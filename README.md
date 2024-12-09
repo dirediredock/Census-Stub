@@ -58,4 +58,4 @@ If this research project has been helpful in your work, we kindly ask to cite us
 }
 ```
 
-[^1]: Specifically `EVAL_GraphAtlasCollider/Graph_Atlas/order_10.g6`, `EVAL_GraphAtlasCollider/CollisionSetMembership/CollisionSet_CSV/DATA_10.csv`, `EVAL_GraphAtlasCollider/CollisionSetMembership/CollisionSet_CSV/DATA_10/CN_CE_xx.csv`, and `EVAL_GraphAtlasCollider/CollisionSetMembership/CollisionSet_CSV/DATA_10/CN_xx_xx.csv`.
+[^1]: Specifically, the files above 100MB are `EVAL_GraphAtlasCollider/Graph_Atlas/order_10.g6`, `EVAL_GraphAtlasCollider/CollisionSetMembership/CollisionSet_CSV/DATA_10.csv`, `EVAL_GraphAtlasCollider/CollisionSetMembership/CollisionSet_CSV/DATA_10/CN_CE_xx.csv`, and `EVAL_GraphAtlasCollider/CollisionSetMembership/CollisionSet_CSV/DATA_10/CN_xx_xx.csv`.
