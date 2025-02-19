@@ -2,11 +2,11 @@
 
 <img src="FIGURES/FIGURE_SensitivityAnalysis/Loop.png" width="100%" ></a>
 
-Arxiv PDF (open access): https://arxiv.org/abs/2412.04582
-
 IEEE paper (peer reviewed): https://ieeexplore.ieee.org/document/10786915
 
 Supplemental materials: https://osf.io/nmzra/
+
+Arxiv PDF (open access): https://arxiv.org/abs/2412.04582
 
 ### Project Overview
 
