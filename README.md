@@ -2,7 +2,8 @@
 
 <img src="FIGURES/FIGURE_SensitivityAnalysis/Loop.png" width="100%" ></a>
 
-Full paper: https://arxiv.org/abs/2412.04582 (doi.org/10.1109/TVCG.2024.3513275)
+Arxiv PDF (open access): https://arxiv.org/abs/2412.04582
+IEEE paper (peer reviewed): https://ieeexplore.ieee.org/document/10786915
 
 Supplemental materials: https://osf.io/nmzra/
 
